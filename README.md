@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![WenkanHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=WenkanHuang&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WenkanHuang&layout=compact&exclude_repo=WenkanHuang.github.io&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WenkanHuang&layout=compact&hide=html&exclude_repo=WenkanHuang.github.io&langs_count=8)
