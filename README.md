@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![WenkanHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingPlatelets&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingPlatelets&layout=compact&hide=html,css&exclude_repo=CodingPlatelets.github.io&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingPlatelets&layout=compact&hide=html,css,scss&exclude_repo=CodingPlatelets.github.io&langs_count=8)
